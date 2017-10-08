@@ -1,0 +1,42 @@
+main {
+	font-size: 0;
+}
+.parent {
+	margin-top: 90px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 800px;
+}
+.top {
+	font-size: 0;
+	border: 1px solid black;
+	height: 200px;
+	width: 50%;
+	display: inline-block;
+	
+}
+.top-one {
+	background-color: green;
+}
+.top-two{
+	background-color: blue;
+}
+.buttom {
+	border: 1px black solid;	
+	height: 300px;
+	width: 33.33%;
+	display: inline-block;
+	font-size: 0;
+}
+.buttom-one {
+	background-color: gray;
+}
+.buttom-two {
+	background-color: black;
+}
+.buttom-three {
+	background-color: orange;
+}
+.center {
+  text-align: center;
+}
